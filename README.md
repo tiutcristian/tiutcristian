@@ -8,14 +8,6 @@ I'm **Cristian Tiut**, a full-stack developer based in Bucharest, Romania. I wor
 - **Software Developer Intern, Bosch Romania** (Jul – Sep 2025): Cut prototyping cost on ultrasonic parking systems by replacing dedicated hardware with Raspberry Pi Picos. Built a Jenkins-based remote dev bench that flashes 8 boards in parallel, and introduced a docs-as-code, submodule-based Git workflow.
 - **Java & Spring Boot Trainee, msg Systems** (Jul – Sep 2024): Built a RESTful API for a car marketplace on PostgreSQL, with 18 endpoints covering CRUD, auctions, real-time bidding, and automated winner determination, secured with Spring Security.
 
-### Selected projects
-
-- [**Visual stimulus reconstruction from fMRI data**](https://github.com/tiutcristian/nsd-fmri-reconstruction) (2026): Bachelor's thesis. Maps fMRI BOLD signals to CLIP embeddings via Ridge regression, with retrieval-based and generative reconstruction and a Gradio UI.
-- [**Duo**](https://github.com/tiutcristian/Duo) (2025): A Duolingo-style learning platform with an ASP.NET Core MVC web app and a WinUI 3 desktop client. I led the course team as it grew from 7 to 28 members.
-- [**mobile.de clone**](https://github.com/tiutcristian/MobileClone) (2024): Extends the msg trainee project with a Next.js frontend, MFA, and deployment on Railway.
-- [**Fleet**](https://github.com/tiutcristian/fleet) (2023): Car fleet management site that tracks document expiration dates and notifies managers, built with PHP and MySQL.
-- [**Passcrypt**](https://github.com/tiutcristian/Passcrypt) (2023): C++/Qt password manager with Libsodium-encrypted storage and a password generator.
-
 ### Skills
 
 - **Languages:** Java, JavaScript, Python, C/C++
