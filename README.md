@@ -4,7 +4,7 @@ I'm **Cristian Tiut**, a full-stack developer based in Bucharest, Romania. I wor
 
 ### Experience
 
-- **Full-Stack Developer, OpenText** (Oct 2025 – Oct 2026): Shipped 65+ product changes to Universal Discovery & CMDB, an enterprise IT asset discovery platform, in React and Java. Cut emergency changes by 85% by refining requirements with engineering and UX, and expanded test coverage with Jest, JUnit, and Mockito.
+- **Full-Stack Developer, OpenText** (Oct 2025 – Present): Shipped 65+ product changes to Universal Discovery & CMDB, an enterprise IT asset discovery platform, in React and Java. Cut emergency changes by 85% by refining requirements with engineering and UX, and expanded test coverage with Jest, JUnit, and Mockito.
 - **Software Developer Intern, Bosch Romania** (Jul – Sep 2025): Cut prototyping cost on ultrasonic parking systems by replacing dedicated hardware with Raspberry Pi Picos. Built a Jenkins-based remote dev bench that flashes 8 boards in parallel, and introduced a docs-as-code, submodule-based Git workflow.
 - **Java & Spring Boot Trainee, msg Systems** (Jul – Sep 2024): Built a RESTful API for a car marketplace on PostgreSQL, with 18 endpoints covering CRUD, auctions, real-time bidding, and automated winner determination, secured with Spring Security.
 
